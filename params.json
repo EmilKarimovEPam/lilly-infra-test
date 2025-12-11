@@ -1,0 +1,22 @@
+[
+  {
+    "ParameterKey": "BucketName",
+    "ParameterValue": "emiltestbucketfornow"
+  },
+  {
+    "ParameterKey": "RoleName",
+    "ParameterValue": "emiltestrolefornow"
+  },
+  {
+    "ParameterKey": "PolicyName",
+    "ParameterValue": "emiltestpolicyfornow"
+  },
+  {
+    "ParameterKey": "DatabricksAccountId",
+    "ParameterValue": "468247904220"
+  },
+  {
+    "ParameterKey": "ExternalID",
+    "ParameterValue": "312312312312"
+  }
+]
