@@ -1,4 +1,4 @@
-name: Deploy S3 Databricks CloudFormation Stack
+name: LDF Data Processing using CloudFormation Stack
 
 on:
   workflow_dispatch:
